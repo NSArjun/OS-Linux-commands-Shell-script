@@ -1,9 +1,9 @@
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
-Linux commands-Shell scripting
 
 NAME: ARJUN N S
+
 REG NO: 212223230020
 
 # AIM:
